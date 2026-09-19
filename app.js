@@ -19,12 +19,24 @@ const ASSETS = {
 
   userAvatars: [
     "./avatars/user-01.jpg",
-    "./avatars/user-02.jpg"
+    "./avatars/user-02.jpg",
+    "./avatars/user-03.jpg",
+    "./avatars/user-04.jpg",
+    "./avatars/user-05.jpg",
+    "./avatars/user-06.jpg",
+    "./avatars/user-07.jpg",
+    "./avatars/user-08.jpg"
   ],
 
   assistantAvatars: [
     "./avatars/assistant-01.jpg",
-    "./avatars/assistant-02.jpg"
+    "./avatars/assistant-02.jpg",
+    "./avatars/assistant-03.jpg",
+    "./avatars/assistant-04.jpg",
+    "./avatars/assistant-05.jpg",
+    "./avatars/assistant-06.jpg",
+    "./avatars/assistant-07.jpg",
+    "./avatars/assistant-08.jpg"
   ]
 };
 
